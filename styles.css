@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "LinguaV-Regular";
+    src: url('LinguaV-regular.otf') format('opentype');
+}
+body {
+    color:red;
+    background: black;
+    margin: 0px;
+    font-family: "LinguaV-Regular";
+}
+    header {
+        border-bottom: solid 2px red;
+        padding: 20px;
+        font-size: 32px;
+        color: red;
+    }
+    section {
+        background: rgb(97, 3, 3);
+        align-items: self-start;
+        padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+    }
+    div {
+        margin-right: 10px;
+    }
+    .chamada-texto {
+        margin-right: 5%;
+      }
+      
+      h1 {
+        font-size: 40px;
+      }
+      
+      p {
+        font-size: 20px;
+      }
+

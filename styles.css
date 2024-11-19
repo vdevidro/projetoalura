@@ -2,6 +2,13 @@
     font-family: "LinguaV-Regular";
     src: url(../projetoalura/LinguaV-Regular.otf);
 }
+h1{
+
+font-family: "LinguaV-Regular";
+}
+p#import{
+  font-family: "LinguaV-Regular";
+}
 
 body {
     color: rgb(255, 0, 0);

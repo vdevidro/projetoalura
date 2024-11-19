@@ -1,6 +1,6 @@
 @font-face {
     font-family: "LinguaV-Regular";
-    src: url('LinguaV-regular.otf') format('opentype');
+    src: url(../projetoalura/LinguaV-Regular.otf);
 }
 
 body {
